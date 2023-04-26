@@ -51,7 +51,7 @@ pause.addEventListener('click', () => {
 
 reset.addEventListener('click', () => {
     clearInterval(interval);
-    isRunning = false;
+    let isRunning = false;
 
     minutes = isWorkSession ? 25 : 5;
     seconds = 0;
