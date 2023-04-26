@@ -1,0 +1,36 @@
+body {
+    font-family: "Inter", sans-serif;
+    
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+#timer {
+    font-size: 3em;
+    font-weight: bold;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.work-session {
+    background-color: #4caf50;
+    color: white;
+}
+
+.break-session {
+    background-color: #f44336;
+    color: white;
+}
+
+button {
+    font-size: 1.2em;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+}
