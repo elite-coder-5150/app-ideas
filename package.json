@@ -1,0 +1,31 @@
+{
+  "name": "app-ideas",
+  "version": "0.0.4",
+  "description": "a collection of ideas for apps or things i can add in my projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elite-coder-5150/app-ideas.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css",
+    "jest",
+    "supertest"
+  ],
+  "author": "Darrell Parkhouse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elite-coder-5150/app-ideas/issues"
+  },
+  "homepage": "https://github.com/elite-coder-5150/app-ideas#readme",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "jquery": "^3.6.4",
+    "supertest": "^6.3.3"
+  }
+}
